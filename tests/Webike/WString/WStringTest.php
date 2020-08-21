@@ -23,7 +23,7 @@ final class WStringTest extends TestCase
     }
 
     /* ************************************************* */
-    /* ************ HString::str_replace_last ********** */
+    /* ************ WString::strReplaceLast ********** */
     /* ************************************************* */
 
     /**
@@ -47,13 +47,13 @@ final class WStringTest extends TestCase
     }
 
     /* ************************************************* */
-    /* *************** HString::startsWith ************ */
+    /* *************** WString::startsWith ************ */
     /* ************************************************* */
 
     /**
      *
      */
-    public function testCanSartWith()
+    public function testCanStartWith()
     {
         $test = \Webike\WString\WString::startsWith($this->string1, 'Bonjour');
         $this->assertIsBool($test);
@@ -71,7 +71,7 @@ final class WStringTest extends TestCase
     }
 
     /* ************************************************* */
-    /* *************** HString::ends_with ************** */
+    /* *************** WString::ends_with ************** */
     /* ************************************************* */
 
     /**

@@ -5,7 +5,7 @@ require_once __DIR__ . '/../vendor/autoload.php';
 $string1 = 'Bonjour le monde ! Bonjour la vie ! Bonjour les autres !';
 
 /* ************************************************* */
-/* ************ HString::str_replace_last ********** */
+/* ************ WString::strReplaceLast ********** */
 /* ************************************************* */
 
 error_log('Before str_replace_last ' . $string1);
@@ -19,7 +19,7 @@ error_log('After str_replace_last ' . $test);
 error_log("\n");
 
 /* ************************************************* */
-/* *************** HString::starts_with ************ */
+/* *************** WString::startsWith ************ */
 /* ************************************************* */
 
 error_log('Before starts_with ' . $string1 . ' ? Bonjour');
@@ -33,7 +33,7 @@ error_log('After starts_with ' . $test);
 error_log("\n");
 
 /* ************************************************* */
-/* *************** HString::ends_with ************** */
+/* *************** WString::endsWith ************** */
 /* ************************************************* */
 
 error_log('Before ends_with ' . $string1 . ' ? les autres !');

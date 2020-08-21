@@ -14,7 +14,7 @@ In your PHP code, load library
 require_once __DIR__ . '/../vendor/autoload.php';
 use Webike\WString\WString as WString;
 ```
-Note: I couldn't use String as namespace because it's a PHP reserved word so it's why namespace is HString ...
+Note: I couldn't use String as namespace because it's a PHP reserved word so it's why namespace is WString ...
 
 ## Usage
 
