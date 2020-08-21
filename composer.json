@@ -1,0 +1,23 @@
+{
+  "name": "webikevn/wstring",
+  "description": "PHP String Utilities",
+  "authors": [
+    {
+      "name": "Nguyen Giang",
+      "email": "nguyen.giang@rivercrane.com.vn",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Hug\\": "src/Webike/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Hug\\Tests\\": "tests/Webike/"
+    }
+  }
+}
