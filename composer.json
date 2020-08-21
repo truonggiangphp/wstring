@@ -1,6 +1,8 @@
 {
   "name": "webikevn/wstring",
   "description": "PHP String Utilities",
+  "keywords": ["laravel", "laravel-string"],
+  "license": "MIT",
   "authors": [
     {
       "name": "Nguyen Giang",

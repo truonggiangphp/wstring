@@ -12,16 +12,16 @@
   <component name="ChangeListManager">
     <list default="true" id="fa18d7ac-3294-4b15-ae8c-b02f9c4191e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/example/test.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Webike/WString/WStringTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Webike/WString/WStringTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/wstring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wstring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
@@ -50,7 +50,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597983908266</updated>
-      <workItem from="1597983909328" duration="539000" />
+      <workItem from="1597983909328" duration="625000" />
+      <workItem from="1597988551017" duration="10000" />
     </task>
     <servers />
   </component>
@@ -67,6 +68,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="470" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597984025043">
