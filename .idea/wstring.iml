@@ -2,10 +2,10 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/tests/Webike" isTestSource="true" packagePrefix="Hug\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/Webike" isTestSource="true" packagePrefix="Webike\Tests\" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/Webike" isTestSource="false" packagePrefix="Hug\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Webike" isTestSource="false" packagePrefix="Webike\" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

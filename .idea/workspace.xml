@@ -14,13 +14,14 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/wstring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/wstring.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Webike/WString/WString.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Webike/WString/WString.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -51,7 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1597983908266</updated>
       <workItem from="1597983909328" duration="625000" />
-      <workItem from="1597988551017" duration="10000" />
+      <workItem from="1597988551017" duration="114000" />
+      <workItem from="1597989819784" duration="27000" />
     </task>
     <servers />
   </component>

@@ -16,10 +16,10 @@ class WString
      */
     public static function strReplaceLast($search, $replace, $subject)
     {
-        $length_of_search = strlen($search);
-        $position_of_search = strrpos($subject, $search);
-        if ($position_of_search !== false) {
-            $subject = substr_replace($subject, $replace, $position_of_search, $length_of_search);
+        $lengthOfSearch = strlen($search);
+        $positionOfSearch = strrpos($subject, $search);
+        if ($positionOfSearch !== false) {
+            $subject = substr_replace($subject, $replace, $positionOfSearch, $lengthOfSearch);
         }
         return $subject;
     }

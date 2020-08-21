@@ -14,12 +14,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Hug\\": "src/Webike/"
+      "Webike\\": "src/Webike/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Hug\\Tests\\": "tests/Webike/"
+      "Webike\\Tests\\": "tests/Webike/"
     }
   }
 }
